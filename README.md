@@ -259,10 +259,5 @@ Architecture can be extended with:
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, consider giving it a star.
-
-```bash
 ⭐ Star the repository on GitHub
 ```
